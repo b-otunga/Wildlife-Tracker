@@ -10,6 +10,7 @@ CREATE TABLE animals(
     scientific_name VARCHAR(255) NOT NULL
 );
 
+
 CREATE TABLE endangered_animals(
     id SERIAL PRIMARY KEY,
     animal_id INTEGER ,
