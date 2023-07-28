@@ -1,6 +1,6 @@
 # Wildlife tracker
 
-Environmental impact assessment for animal sightings
+Implement a wildlife tracker using java
 
 ## Languages Used
 - HTML
@@ -9,17 +9,17 @@ Environmental impact assessment for animal sightings
 - Postgresql
 
 ## Author
-Javan Oyugi
+Bill Otunga
 
 ## Setup
 - Clone the repository and navigate to the root of the repository
 ```
-git clone https://github.com/jvoyugi/wildlife-tracker.git
-cd wildlife-tracker
+git clone https://github.com/b-otunga/Wildlife-Tracker.git
+cd Wildlife-Tracker
 ```
 
 ### Live site
-- The site can be accessed at [https://wildlife-tracker.herokuapp.com/](https://wildlife-tracker.herokuapp.com/)
+Coming up...
 
 ## License
 MIT License
